@@ -1,7 +1,7 @@
 import { Button, Form, FloatingLabel } from 'react-bootstrap';
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import ErrorFlag from '../ErrorFlag';
+import ErrorFlag from './ErrorFlag';
 import { DayPicker } from 'react-day-picker';
 import { format } from 'date-fns';
 import 'react-day-picker/dist/style.css';

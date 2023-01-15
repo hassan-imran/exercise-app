@@ -7,7 +7,7 @@ function ErrorPage() {
 
     return (
         <>
-            <Container className='text-center'>
+            <Container className='text-center vh-100'>
                 <h1 className='display-1'>
                     404
                 </h1>
